@@ -1,0 +1,6 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex1\PT2017_Kalkaman_Ex1\bin\Debug\PT2017_Kalkaman_Ex1.exe.config
+c:\users\qalqa\documents\visual studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex1\PT2017_Kalkaman_Ex1\bin\Debug\PT2017_Kalkaman_Ex1.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex1\PT2017_Kalkaman_Ex1\bin\Debug\PT2017_Kalkaman_Ex1.pdb
+c:\users\qalqa\documents\visual studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex1\PT2017_Kalkaman_Ex1\obj\Debug\PT2017_Kalkaman_Ex1.csprojResolveAssemblyReference.cache
+c:\users\qalqa\documents\visual studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex1\PT2017_Kalkaman_Ex1\obj\Debug\PT2017_Kalkaman_Ex1.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex1\PT2017_Kalkaman_Ex1\obj\Debug\PT2017_Kalkaman_Ex1.pdb

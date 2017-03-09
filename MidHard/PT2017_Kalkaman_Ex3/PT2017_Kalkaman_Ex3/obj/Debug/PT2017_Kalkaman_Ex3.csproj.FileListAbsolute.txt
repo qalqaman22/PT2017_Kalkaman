@@ -1,0 +1,5 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex3\PT2017_Kalkaman_Ex3\bin\Debug\PT2017_Kalkaman_Ex3.exe.config
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex3\PT2017_Kalkaman_Ex3\bin\Debug\PT2017_Kalkaman_Ex3.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex3\PT2017_Kalkaman_Ex3\bin\Debug\PT2017_Kalkaman_Ex3.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex3\PT2017_Kalkaman_Ex3\obj\Debug\PT2017_Kalkaman_Ex3.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\MidHard\PT2017_Kalkaman_Ex3\PT2017_Kalkaman_Ex3\obj\Debug\PT2017_Kalkaman_Ex3.pdb
